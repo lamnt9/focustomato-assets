@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "baseUrl": "https://github.com/lamnt9/focustomato-assets/releases/download/music-v1/",
   "collections": [
     {
@@ -527,6 +527,647 @@
           "durationSec": 204,
           "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
           "attribution": "Dreamer Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "chopin-nocturnes",
+      "group": "study",
+      "kind": "music",
+      "titleVi": "Chopin: Dạ khúc",
+      "titleEn": "Chopin Nocturnes",
+      "artist": "Frédéric Chopin (Musopen recordings)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://archive.org/details/musopen-chopin",
+      "tracks": [
+        {
+          "id": "chopin-nocturnes-01-op9-1",
+          "file": "chopin-nocturnes-01-op9-1.m4a",
+          "title": "Nocturne Op. 9 No. 1 in B-flat minor",
+          "durationSec": 337,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-02-op9-2",
+          "file": "chopin-nocturnes-02-op9-2.m4a",
+          "title": "Nocturne Op. 9 No. 2 in E-flat major",
+          "durationSec": 277,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-03-op15-1",
+          "file": "chopin-nocturnes-03-op15-1.m4a",
+          "title": "Nocturne Op. 15 No. 1 in F major",
+          "durationSec": 306,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-04-op27-1",
+          "file": "chopin-nocturnes-04-op27-1.m4a",
+          "title": "Nocturne Op. 27 No. 1 in C-sharp minor",
+          "durationSec": 352,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-05-op27-2",
+          "file": "chopin-nocturnes-05-op27-2.m4a",
+          "title": "Nocturne Op. 27 No. 2 in D-flat major",
+          "durationSec": 378,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-06-op32-1",
+          "file": "chopin-nocturnes-06-op32-1.m4a",
+          "title": "Nocturne Op. 32 No. 1 in B major",
+          "durationSec": 301,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-07-op32-2",
+          "file": "chopin-nocturnes-07-op32-2.m4a",
+          "title": "Nocturne Op. 32 No. 2 in A-flat major",
+          "durationSec": 343,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-08-op48-1",
+          "file": "chopin-nocturnes-08-op48-1.m4a",
+          "title": "Nocturne Op. 48 No. 1 in C minor",
+          "durationSec": 379,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-09-op55-1",
+          "file": "chopin-nocturnes-09-op55-1.m4a",
+          "title": "Nocturne Op. 55 No. 1 in F minor",
+          "durationSec": 317,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-10-op55-2",
+          "file": "chopin-nocturnes-10-op55-2.m4a",
+          "title": "Nocturne Op. 55 No. 2 in E-flat major",
+          "durationSec": 310,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-11-op62-2",
+          "file": "chopin-nocturnes-11-op62-2.m4a",
+          "title": "Nocturne Op. 62 No. 2 in E major",
+          "durationSec": 340,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        },
+        {
+          "id": "chopin-nocturnes-12-op72-1",
+          "file": "chopin-nocturnes-12-op72-1.m4a",
+          "title": "Nocturne Op. 72 No. 1 in E minor",
+          "durationSec": 273,
+          "sourceUrl": "https://archive.org/details/musopen-chopin",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "debussy-satie",
+      "group": "study",
+      "kind": "music",
+      "titleVi": "Debussy & Satie",
+      "titleEn": "Debussy & Satie Piano",
+      "artist": "Various pianists (Wikimedia Commons)",
+      "license": "Mixed: CC0 / PD / CC BY 3.0 / CC BY-SA 3.0-4.0",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Category:Audio_files_of_music_by_Erik_Satie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Audio_files_of_music_by_Claude_Debussy",
+      "tracks": [
+        {
+          "id": "debussy-satie-01-clair-de-lune",
+          "file": "debussy-satie-01-clair-de-lune.m4a",
+          "title": "Clair de lune (Debussy)",
+          "durationSec": 304,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clair_de_lune_%28Claude_Debussy%29_Suite_bergamasque.ogg",
+          "attribution": "Clair de lune (Debussy), performed by Laurens Goedhart, CC BY 3.0 https://creativecommons.org/licenses/by/3.0/ - https://soundcloud.com/laurensgoedhart/claude-debussys-clair-de-lune - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-02-premiere-arabesque",
+          "file": "debussy-satie-02-premiere-arabesque.m4a",
+          "title": "Première Arabesque (Debussy)",
+          "durationSec": 293,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Premi%C3%A8re_Arabesque_-_Patrizia_Prati.ogg",
+          "attribution": "Patrizia Prati, Première Arabesque (Debussy), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-03-deuxieme-arabesque",
+          "file": "debussy-satie-03-deuxieme-arabesque.m4a",
+          "title": "Deuxième Arabesque (Debussy)",
+          "durationSec": 240,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Deuxi%C3%A8me_Arabesque_-_Patrizia_Prati.ogg",
+          "attribution": "Patrizia Prati, Deuxième Arabesque (Debussy), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-04-danseuses-de-delphes",
+          "file": "debussy-satie-04-danseuses-de-delphes.m4a",
+          "title": "Danseuses de Delphes (Debussy)",
+          "durationSec": 251,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_I_Livre_Prelude_I..._%28...Danseuses_de_Delphes%29_-_Patrizia_Prati.ogg",
+          "attribution": "Patrizia Prati, Danseuses de Delphes (Debussy), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-05-fille-cheveux-de-lin",
+          "file": "debussy-satie-05-fille-cheveux-de-lin.m4a",
+          "title": "La fille aux cheveux de lin (Debussy)",
+          "durationSec": 169,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_I_Livre_Prelude_VIII..._%28...La_fille_aux_cheveux_de_lin%29_-_Patrizia_Prati.ogg",
+          "attribution": "Patrizia Prati, La fille aux cheveux de lin (Debussy), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-06-gymnopedie-1",
+          "file": "debussy-satie-06-gymnopedie-1.m4a",
+          "title": "Gymnopédie No. 1 (Satie)",
+          "durationSec": 184,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg",
+          "attribution": ""
+        },
+        {
+          "id": "debussy-satie-07-gymnopedie-3",
+          "file": "debussy-satie-07-gymnopedie-3.m4a",
+          "title": "Gymnopédie No. 3 (Satie)",
+          "durationSec": 156,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gymnop%C3%A9die_no.3.ogg",
+          "attribution": ""
+        },
+        {
+          "id": "debussy-satie-08-gnossienne-1",
+          "file": "debussy-satie-08-gnossienne-1.m4a",
+          "title": "Gnossienne No. 1 (Satie)",
+          "durationSec": 218,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satie_-_Gnossienne_1.ogg",
+          "attribution": "La Pianista, Gnossienne No. 1 (Satie), CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-09-gnossienne-3",
+          "file": "debussy-satie-09-gnossienne-3.m4a",
+          "title": "Gnossienne No. 3 (Satie)",
+          "durationSec": 163,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gnossienne_3_%28Satie%29.ogg",
+          "attribution": "La Pianista, Gnossienne No. 3 (Satie), CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-10-gnossienne-4",
+          "file": "debussy-satie-10-gnossienne-4.m4a",
+          "title": "Gnossienne No. 4 (Satie)",
+          "durationSec": 139,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gnossienne_4_%28Satie%29.ogg",
+          "attribution": "La Pianista, Gnossienne No. 4 (Satie), CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-11-gnossienne-5",
+          "file": "debussy-satie-11-gnossienne-5.m4a",
+          "title": "Gnossienne No. 5 (Satie)",
+          "durationSec": 172,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gnossienne_5_%28Satie%29.ogg",
+          "attribution": "La Pianista, Gnossienne No. 5 (Satie), CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ - converted to AAC"
+        },
+        {
+          "id": "debussy-satie-12-gnossienne-7",
+          "file": "debussy-satie-12-gnossienne-7.m4a",
+          "title": "Gnossienne No. 7 (Satie)",
+          "durationSec": 238,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gnossienne_7_%28Satie%29.ogg",
+          "attribution": "La Pianista, Gnossienne No. 7 (Satie), CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ - converted to AAC"
+        }
+      ]
+    },
+    {
+      "id": "lofi-chill",
+      "group": "work",
+      "kind": "music",
+      "titleVi": "Lo-fi tập trung",
+      "titleEn": "Lo-fi Beats (Loyalty Freak Music)",
+      "artist": "Loyalty Freak Music",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/",
+      "tracks": [
+        {
+          "id": "lofi-chill-01-sweet-you",
+          "file": "lofi-chill-01-sweet-you.m4a",
+          "title": "Sweet You",
+          "durationSec": 160,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_01_Sweet_You/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-02-old-saga",
+          "file": "lofi-chill-02-old-saga.m4a",
+          "title": "Old Saga",
+          "durationSec": 150,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_02_Old_Saga/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-03-love-her",
+          "file": "lofi-chill-03-love-her.m4a",
+          "title": "Love Her",
+          "durationSec": 145,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_04_Love_Her/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-04-love-they",
+          "file": "lofi-chill-04-love-they.m4a",
+          "title": "Love They",
+          "durationSec": 279,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_05_Love_They/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-05-softly",
+          "file": "lofi-chill-05-softly.m4a",
+          "title": "Softly",
+          "durationSec": 262,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_06_Softly/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-06-sweet-me",
+          "file": "lofi-chill-06-sweet-me.m4a",
+          "title": "Sweet Me",
+          "durationSec": 201,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_07_Sweet_Me/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-07-beach",
+          "file": "lofi-chill-07-beach.m4a",
+          "title": "Beach",
+          "durationSec": 161,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_08_Beach/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-08-hangover",
+          "file": "lofi-chill-08-hangover.m4a",
+          "title": "Hangover",
+          "durationSec": 193,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_10_Hangover/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-09-work",
+          "file": "lofi-chill-09-work.m4a",
+          "title": "Work",
+          "durationSec": 145,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_13_Work/",
+          "attribution": ""
+        },
+        {
+          "id": "lofi-chill-10-sweet-they",
+          "file": "lofi-chill-10-sweet-they.m4a",
+          "title": "Sweet They",
+          "durationSec": 224,
+          "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/MELODIES_WITH_A_BEAT/Loyalty_Freak_Music_-_MELODIES_WITH_A_BEAT_-_14_Sweet_They/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "soft-jazz",
+      "group": "work",
+      "kind": "music",
+      "titleVi": "Jazz nhẹ nhàng",
+      "titleEn": "Soft Jazz (Kevin MacLeod)",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+      "tracks": [
+        {
+          "id": "soft-jazz-01-jazz-brunch",
+          "file": "soft-jazz-01-jazz-brunch.m4a",
+          "title": "Jazz Brunch",
+          "durationSec": 323,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700074",
+          "attribution": "Jazz Brunch by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+          "id": "soft-jazz-02-smooth-lovin",
+          "file": "soft-jazz-02-smooth-lovin.m4a",
+          "title": "Smooth Lovin",
+          "durationSec": 259,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700077",
+          "attribution": "Smooth Lovin by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+          "id": "soft-jazz-03-backbay-lounge",
+          "file": "soft-jazz-03-backbay-lounge.m4a",
+          "title": "Backbay Lounge",
+          "durationSec": 267,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700068",
+          "attribution": "Backbay Lounge by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+          "id": "soft-jazz-04-bossa-antigua",
+          "file": "soft-jazz-04-bossa-antigua.m4a",
+          "title": "Bossa Antigua",
+          "durationSec": 283,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700069",
+          "attribution": "Bossa Antigua by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+          "id": "soft-jazz-05-apero-hour",
+          "file": "soft-jazz-05-apero-hour.m4a",
+          "title": "Apero Hour",
+          "durationSec": 283,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700070",
+          "attribution": "Apero Hour by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+          "id": "soft-jazz-06-as-i-figure",
+          "file": "soft-jazz-06-as-i-figure.m4a",
+          "title": "As I Figure",
+          "durationSec": 217,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100323",
+          "attribution": "As I Figure by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+          "id": "soft-jazz-07-just-as-soon",
+          "file": "soft-jazz-07-just-as-soon.m4a",
+          "title": "Just As Soon",
+          "durationSec": 228,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100185",
+          "attribution": "Just As Soon by Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/"
+        }
+      ]
+    },
+    {
+      "id": "acoustic-guitar",
+      "group": "work",
+      "kind": "music",
+      "titleVi": "Guitar acoustic",
+      "titleEn": "Acoustic Guitar",
+      "artist": "Jason Shaw / Michael Laucke",
+      "license": "Mixed: CC BY 3.0 US / CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/",
+      "sourceUrl": "https://freemusicarchive.org/music/Jason_Shaw/Audionautix_Acoustic/",
+      "tracks": [
+        {
+          "id": "acoustic-guitar-01-acoustic-meditation",
+          "file": "acoustic-guitar-01-acoustic-meditation.m4a",
+          "title": "Acoustic Meditation",
+          "durationSec": 195,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_ACOUSTIC_MEDITATION.ogg",
+          "attribution": "Acoustic Meditation by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-02-solo-acoustic-guitar",
+          "file": "acoustic-guitar-02-solo-acoustic-guitar.m4a",
+          "title": "Solo Acoustic Guitar",
+          "durationSec": 191,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_SOLO_ACOUSTIC_GUITAR.ogg",
+          "attribution": "Solo Acoustic Guitar by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-03-green-leaves",
+          "file": "acoustic-guitar-03-green-leaves.m4a",
+          "title": "Green Leaves",
+          "durationSec": 136,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_GREEN_LEAVES.ogg",
+          "attribution": "Green Leaves by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-04-serenity",
+          "file": "acoustic-guitar-04-serenity.m4a",
+          "title": "Serenity",
+          "durationSec": 110,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_SERENITY.ogg",
+          "attribution": "Serenity by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-05-autumn-sunset",
+          "file": "acoustic-guitar-05-autumn-sunset.m4a",
+          "title": "Autumn Sunset",
+          "durationSec": 96,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_AUTUMN_SUNSET.ogg",
+          "attribution": "Autumn Sunset by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-06-mountain-sun",
+          "file": "acoustic-guitar-06-mountain-sun.m4a",
+          "title": "Mountain Sun",
+          "durationSec": 153,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_MOUNTAIN_SUN.ogg",
+          "attribution": "Mountain Sun by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-07-river-meditation",
+          "file": "acoustic-guitar-07-river-meditation.m4a",
+          "title": "River Meditation",
+          "durationSec": 178,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Shaw_-_RIVER_MEDITATION.ogg",
+          "attribution": "River Meditation by Jason Shaw (Audionautix.com), CC BY 3.0 US https://creativecommons.org/licenses/by/3.0/us/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-08-gymnopedie-1-laucke",
+          "file": "acoustic-guitar-08-gymnopedie-1-laucke.m4a",
+          "title": "Gymnopédie No. 1 (Satie, guitar)",
+          "durationSec": 172,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satie_Gymnopedie_No_1_performed_by_Michael_Laucke.flac",
+          "attribution": "Michael Laucke, Satie Gymnopédie No. 1 (guitar arrangement), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-09-gymnopedie-2-laucke",
+          "file": "acoustic-guitar-09-gymnopedie-2-laucke.m4a",
+          "title": "Gymnopédie No. 2 (Satie, guitar)",
+          "durationSec": 147,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac",
+          "attribution": "Michael Laucke, Satie Gymnopédie No. 2 (guitar arrangement), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        },
+        {
+          "id": "acoustic-guitar-10-gymnopedie-3-laucke",
+          "file": "acoustic-guitar-10-gymnopedie-3-laucke.m4a",
+          "title": "Gymnopédie No. 3 (Satie, guitar)",
+          "durationSec": 123,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satie_Gymnopedie_No_3_performed_by_Michael_Laucke.flac",
+          "attribution": "Michael Laucke, Satie Gymnopédie No. 3 (guitar arrangement), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - converted to AAC"
+        }
+      ]
+    },
+    {
+      "id": "nature-rain",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Mưa rơi",
+      "titleEn": "Gentle Rain",
+      "artist": "AugustSandberg (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/AugustSandberg/sounds/508527/",
+      "tracks": [
+        {
+          "id": "nature-rain",
+          "file": "nature-rain.m4a",
+          "title": "Mưa rơi",
+          "durationSec": 237,
+          "sourceUrl": "https://freesound.org/people/AugustSandberg/sounds/508527/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "nature-thunderstorm",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Mưa giông",
+      "titleEn": "Thunderstorm with Soft Rain",
+      "artist": "The_Isot_is_Back (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/The_Isot_is_Back/sounds/641185/",
+      "tracks": [
+        {
+          "id": "nature-thunderstorm",
+          "file": "nature-thunderstorm.m4a",
+          "title": "Mưa giông",
+          "durationSec": 237,
+          "sourceUrl": "https://freesound.org/people/The_Isot_is_Back/sounds/641185/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "nature-stream",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Suối chảy",
+      "titleEn": "Small River Stream",
+      "artist": "klau78 (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/klau78/sounds/547136/",
+      "tracks": [
+        {
+          "id": "nature-stream",
+          "file": "nature-stream.m4a",
+          "title": "Suối chảy",
+          "durationSec": 237,
+          "sourceUrl": "https://freesound.org/people/klau78/sounds/547136/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "nature-forest-birds",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Rừng chim hót",
+      "titleEn": "Forest Birds",
+      "artist": "Desmond178 (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/Desmond178/sounds/581727/",
+      "tracks": [
+        {
+          "id": "nature-forest-birds",
+          "file": "nature-forest-birds.m4a",
+          "title": "Rừng chim hót",
+          "durationSec": 237,
+          "sourceUrl": "https://freesound.org/people/Desmond178/sounds/581727/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "nature-ocean-waves",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Sóng biển",
+      "titleEn": "Beach Waves",
+      "artist": "Benbojangles (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/Benbojangles/sounds/457149/",
+      "tracks": [
+        {
+          "id": "nature-ocean-waves",
+          "file": "nature-ocean-waves.m4a",
+          "title": "Sóng biển",
+          "durationSec": 237,
+          "sourceUrl": "https://freesound.org/people/Benbojangles/sounds/457149/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "nature-cafe",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Quán cà phê",
+      "titleEn": "Cafe Ambience",
+      "artist": "udo noll / radio aporee",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceUrl": "https://archive.org/details/aporee_27185_31331",
+      "tracks": [
+        {
+          "id": "nature-cafe",
+          "file": "nature-cafe.m4a",
+          "title": "Quán cà phê",
+          "durationSec": 237,
+          "sourceUrl": "https://archive.org/details/aporee_27185_31331",
+          "attribution": "Cafe Goldberg ambience, Berlin Neukölln, by udo noll (radio aporee), CC BY 3.0 https://creativecommons.org/licenses/by/3.0/ - trimmed and looped with crossfade, converted to AAC"
+        }
+      ]
+    },
+    {
+      "id": "nature-campfire",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Lửa trại",
+      "titleEn": "Campfire",
+      "artist": "HECKFRICKER (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/HECKFRICKER/sounds/729396/",
+      "tracks": [
+        {
+          "id": "nature-campfire",
+          "file": "nature-campfire.m4a",
+          "title": "Lửa trại",
+          "durationSec": 237,
+          "sourceUrl": "https://freesound.org/people/HECKFRICKER/sounds/729396/",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "nature-night-crickets",
+      "group": "nature",
+      "kind": "ambient",
+      "titleVi": "Đêm dế kêu",
+      "titleEn": "Summer Night Crickets",
+      "artist": "Famartin (Wikimedia Commons)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-08-25_23_00_00_Summer_night_sounds..._crickets%2C_katydids_etc...in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.webm",
+      "tracks": [
+        {
+          "id": "nature-night-crickets",
+          "file": "nature-night-crickets.m4a",
+          "title": "Đêm dế kêu",
+          "durationSec": 237,
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-08-25_23_00_00_Summer_night_sounds..._crickets%2C_katydids_etc...in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.webm",
+          "attribution": "Summer night sounds (crickets, katydids), Ewing Township NJ, by Famartin, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - trimmed and looped with crossfade, converted to AAC"
         }
       ]
     }
