@@ -1,0 +1,534 @@
+{
+  "version": 1,
+  "baseUrl": "https://github.com/lamnt9/focustomato-assets/releases/download/music-v1/",
+  "collections": [
+    {
+      "id": "bach-goldberg",
+      "group": "study",
+      "titleVi": "Biến tấu Goldberg",
+      "titleEn": "Goldberg Variations",
+      "artist": "Bach · Kimiko Ishizaka",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+      "tracks": [
+        {
+          "id": "bach-goldberg-01-aria",
+          "file": "bach-goldberg-01-aria.m4a",
+          "title": "Aria",
+          "durationSec": 300,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-02-variatio-1-a-1-clav",
+          "file": "bach-goldberg-02-variatio-1-a-1-clav.m4a",
+          "title": "Variation 1",
+          "durationSec": 115,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-03-variatio-2-a-1-clav",
+          "file": "bach-goldberg-03-variatio-2-a-1-clav.m4a",
+          "title": "Variation 2",
+          "durationSec": 124,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-04-variatio-3-a-1-clav-canone-allunisuono",
+          "file": "bach-goldberg-04-variatio-3-a-1-clav-canone-allunisuono.m4a",
+          "title": "Variation 3",
+          "durationSec": 117,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-05-variatio-4-a-1-clav",
+          "file": "bach-goldberg-05-variatio-4-a-1-clav.m4a",
+          "title": "Variation 4",
+          "durationSec": 69,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-06-variatio-5-a-1-ovvero-2-clav",
+          "file": "bach-goldberg-06-variatio-5-a-1-ovvero-2-clav.m4a",
+          "title": "Variation 5",
+          "durationSec": 94,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-07-variatio-6-a-1-clav-canone-alla-seconda",
+          "file": "bach-goldberg-07-variatio-6-a-1-clav-canone-alla-seconda.m4a",
+          "title": "Variation 6",
+          "durationSec": 98,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-08-variatio-7-a-1-ovvero-2-clav",
+          "file": "bach-goldberg-08-variatio-7-a-1-ovvero-2-clav.m4a",
+          "title": "Variation 7",
+          "durationSec": 132,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-09-variatio-8-a-2-clav",
+          "file": "bach-goldberg-09-variatio-8-a-2-clav.m4a",
+          "title": "Variation 8",
+          "durationSec": 117,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-10-variatio-9-a-1-clav-canone-alla-terza",
+          "file": "bach-goldberg-10-variatio-9-a-1-clav-canone-alla-terza.m4a",
+          "title": "Variation 9",
+          "durationSec": 126,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-11-variatio-10-a-1-clav-fughetta",
+          "file": "bach-goldberg-11-variatio-10-a-1-clav-fughetta.m4a",
+          "title": "Variation 10",
+          "durationSec": 106,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-12-variatio-11-a-2-clav",
+          "file": "bach-goldberg-12-variatio-11-a-2-clav.m4a",
+          "title": "Variation 11",
+          "durationSec": 129,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-13-variatio-12-canone-alla-quarta",
+          "file": "bach-goldberg-13-variatio-12-canone-alla-quarta.m4a",
+          "title": "Variation 12",
+          "durationSec": 136,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-14-variatio-13-a-2-clav",
+          "file": "bach-goldberg-14-variatio-13-a-2-clav.m4a",
+          "title": "Variation 13",
+          "durationSec": 254,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-15-variatio-14-a-2-clav",
+          "file": "bach-goldberg-15-variatio-14-a-2-clav.m4a",
+          "title": "Variation 14",
+          "durationSec": 137,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-16-variatio-15-a-1-clav-canone-alla-quinta",
+          "file": "bach-goldberg-16-variatio-15-a-1-clav-canone-alla-quinta.m4a",
+          "title": "Variation 15",
+          "durationSec": 273,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-17-variatio-16-a-1-clav-ouverture",
+          "file": "bach-goldberg-17-variatio-16-a-1-clav-ouverture.m4a",
+          "title": "Variation 16",
+          "durationSec": 189,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-18-variatio-17-a-2-clav",
+          "file": "bach-goldberg-18-variatio-17-a-2-clav.m4a",
+          "title": "Variation 17",
+          "durationSec": 104,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-19-variatio-18-a-1-clav-canone-alla-sexta",
+          "file": "bach-goldberg-19-variatio-18-a-1-clav-canone-alla-sexta.m4a",
+          "title": "Variation 18",
+          "durationSec": 109,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-20-variatio-19-a-1-clav",
+          "file": "bach-goldberg-20-variatio-19-a-1-clav.m4a",
+          "title": "Variation 19",
+          "durationSec": 85,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-21-variatio-20-a-2-clav",
+          "file": "bach-goldberg-21-variatio-20-a-2-clav.m4a",
+          "title": "Variation 20",
+          "durationSec": 125,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-22-variatio-21-canone-alla-settima",
+          "file": "bach-goldberg-22-variatio-21-canone-alla-settima.m4a",
+          "title": "Variation 21",
+          "durationSec": 235,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-23-variatio-22-a-1-clav",
+          "file": "bach-goldberg-23-variatio-22-a-1-clav.m4a",
+          "title": "Variation 22",
+          "durationSec": 93,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-24-variatio-23-a-2-clav",
+          "file": "bach-goldberg-24-variatio-23-a-2-clav.m4a",
+          "title": "Variation 23",
+          "durationSec": 140,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-25-variatio-24-a-1-clav-canone-allottava",
+          "file": "bach-goldberg-25-variatio-24-a-1-clav-canone-allottava.m4a",
+          "title": "Variation 24",
+          "durationSec": 165,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-26-variatio-25-a-2-clav",
+          "file": "bach-goldberg-26-variatio-25-a-2-clav.m4a",
+          "title": "Variation 25",
+          "durationSec": 558,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-27-variatio-26-a-2-clav",
+          "file": "bach-goldberg-27-variatio-26-a-2-clav.m4a",
+          "title": "Variation 26",
+          "durationSec": 123,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-28-variatio-27-a-2-clav-canone-alla-nona",
+          "file": "bach-goldberg-28-variatio-27-a-2-clav-canone-alla-nona.m4a",
+          "title": "Variation 27",
+          "durationSec": 111,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-29-variatio-28-a-2-clav",
+          "file": "bach-goldberg-29-variatio-28-a-2-clav.m4a",
+          "title": "Variation 28",
+          "durationSec": 146,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-30-variatio-29-a-1-ovvero-2-clav",
+          "file": "bach-goldberg-30-variatio-29-a-1-ovvero-2-clav.m4a",
+          "title": "Variation 29",
+          "durationSec": 129,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-31-variatio-30-a-1-clav-quodlibet",
+          "file": "bach-goldberg-31-variatio-30-a-1-clav-quodlibet.m4a",
+          "title": "Variation 30",
+          "durationSec": 121,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        },
+        {
+          "id": "bach-goldberg-32-aria-da-capo-fine",
+          "file": "bach-goldberg-32-aria-da-capo-fine.m4a",
+          "title": "Aria da Capo è Fine",
+          "durationSec": 170,
+          "sourceUrl": "https://archive.org/details/The_Open_Goldberg_Variations-11823",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "bach-wtc",
+      "group": "study",
+      "titleVi": "Bình quân luật · Prelude",
+      "titleEn": "Well-Tempered Clavier · Preludes",
+      "artist": "Bach · Kimiko Ishizaka",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+      "tracks": [
+        {
+          "id": "bach-wtc-01-prelude-01-c-major-bwv-846",
+          "file": "bach-wtc-01-prelude-01-c-major-bwv-846.m4a",
+          "title": "Prelude No. 1 in C major, BWV 846",
+          "durationSec": 163,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-02-prelude-02-c-minor-bwv-847",
+          "file": "bach-wtc-02-prelude-02-c-minor-bwv-847.m4a",
+          "title": "Prelude No. 2 in C minor, BWV 847",
+          "durationSec": 107,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-03-prelude-03-c-sharp-major-bwv-848",
+          "file": "bach-wtc-03-prelude-03-c-sharp-major-bwv-848.m4a",
+          "title": "Prelude No. 3 in C-sharp major, BWV 848",
+          "durationSec": 75,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-04-prelude-04-c-sharp-minor-bwv-849",
+          "file": "bach-wtc-04-prelude-04-c-sharp-minor-bwv-849.m4a",
+          "title": "Prelude No. 4 in C-sharp minor, BWV 849",
+          "durationSec": 178,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-05-prelude-05-d-major-bwv-850",
+          "file": "bach-wtc-05-prelude-05-d-major-bwv-850.m4a",
+          "title": "Prelude No. 5 in D major, BWV 850",
+          "durationSec": 93,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-06-prelude-06-d-minor-bwv-851",
+          "file": "bach-wtc-06-prelude-06-d-minor-bwv-851.m4a",
+          "title": "Prelude No. 6 in D minor, BWV 851",
+          "durationSec": 98,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-07-prelude-07-e-flat-major-bwv-852",
+          "file": "bach-wtc-07-prelude-07-e-flat-major-bwv-852.m4a",
+          "title": "Prelude No. 7 in E-flat major, BWV 852",
+          "durationSec": 214,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-08-prelude-08-e-flat-minor-bwv-853",
+          "file": "bach-wtc-08-prelude-08-e-flat-minor-bwv-853.m4a",
+          "title": "Prelude No. 8 in E-flat minor, BWV 853",
+          "durationSec": 238,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-09-prelude-09-e-major-bwv-854",
+          "file": "bach-wtc-09-prelude-09-e-major-bwv-854.m4a",
+          "title": "Prelude No. 9 in E major, BWV 854",
+          "durationSec": 105,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-10-prelude-10-e-minor-bwv-855",
+          "file": "bach-wtc-10-prelude-10-e-minor-bwv-855.m4a",
+          "title": "Prelude No. 10 in E minor, BWV 855",
+          "durationSec": 121,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-11-prelude-11-f-major-bwv-856",
+          "file": "bach-wtc-11-prelude-11-f-major-bwv-856.m4a",
+          "title": "Prelude No. 11 in F major, BWV 856",
+          "durationSec": 64,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        },
+        {
+          "id": "bach-wtc-12-prelude-12-f-minor-bwv-857",
+          "file": "bach-wtc-12-prelude-12-f-minor-bwv-857.m4a",
+          "title": "Prelude No. 12 in F minor, BWV 857",
+          "durationSec": 173,
+          "sourceUrl": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+          "attribution": ""
+        }
+      ]
+    },
+    {
+      "id": "scott-buckley",
+      "group": "work",
+      "titleVi": "Ambient điện ảnh",
+      "titleEn": "Cinematic ambient",
+      "artist": "Scott Buckley",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.scottbuckley.com.au/library/",
+      "tracks": [
+        {
+          "id": "scott-buckley-01-she-moved-mountains",
+          "file": "scott-buckley-01-she-moved-mountains.m4a",
+          "title": "She Moved Mountains",
+          "durationSec": 313,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/she-moved-mountains/",
+          "attribution": "'She Moved Mountains' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-02-the-long-way-home",
+          "file": "scott-buckley-02-the-long-way-home.m4a",
+          "title": "The Long Way Home",
+          "durationSec": 173,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/the-long-way-home/",
+          "attribution": "'The Long Way Home' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-03-solace",
+          "file": "scott-buckley-03-solace.m4a",
+          "title": "Solace",
+          "durationSec": 356,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/solace/",
+          "attribution": "'Solace' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-04-sleep",
+          "file": "scott-buckley-04-sleep.m4a",
+          "title": "Sleep",
+          "durationSec": 184,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/sleep/",
+          "attribution": "'Sleep' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-05-adrift-among-infinite-stars",
+          "file": "scott-buckley-05-adrift-among-infinite-stars.m4a",
+          "title": "Adrift Among Infinite Stars",
+          "durationSec": 405,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/adrift-among-infinite-stars/",
+          "attribution": "'Adrift Among Infinite Stars' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-06-borealis",
+          "file": "scott-buckley-06-borealis.m4a",
+          "title": "Borealis",
+          "durationSec": 392,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/borealis/",
+          "attribution": "'Borealis' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-07-midvinter",
+          "file": "scott-buckley-07-midvinter.m4a",
+          "title": "Midvinter",
+          "durationSec": 274,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/midvinter/",
+          "attribution": "'Midvinter' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        },
+        {
+          "id": "scott-buckley-08-skyward",
+          "file": "scott-buckley-08-skyward.m4a",
+          "title": "Skyward",
+          "durationSec": 260,
+          "sourceUrl": "https://www.scottbuckley.com.au/library/skyward/",
+          "attribution": "'Skyward' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au"
+        }
+      ]
+    },
+    {
+      "id": "kevin-macleod",
+      "group": "work",
+      "titleVi": "Piano & nhạc nhẹ",
+      "titleEn": "Calm piano & ambient",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+      "tracks": [
+        {
+          "id": "kevin-macleod-01-meditation-impromptu-01",
+          "file": "kevin-macleod-01-meditation-impromptu-01.m4a",
+          "title": "Meditation Impromptu 01",
+          "durationSec": 213,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Meditation Impromptu 01 Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-02-meditation-impromptu-02",
+          "file": "kevin-macleod-02-meditation-impromptu-02.m4a",
+          "title": "Meditation Impromptu 02",
+          "durationSec": 249,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Meditation Impromptu 02 Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-03-meditation-impromptu-03",
+          "file": "kevin-macleod-03-meditation-impromptu-03.m4a",
+          "title": "Meditation Impromptu 03",
+          "durationSec": 255,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Meditation Impromptu 03 Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-04-moonstone",
+          "file": "kevin-macleod-04-moonstone.m4a",
+          "title": "Moonstone",
+          "durationSec": 255,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Moonstone Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-05-fresh-air",
+          "file": "kevin-macleod-05-fresh-air.m4a",
+          "title": "Fresh Air",
+          "durationSec": 294,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Fresh Air Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-06-starry",
+          "file": "kevin-macleod-06-starry.m4a",
+          "title": "Starry",
+          "durationSec": 199,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Starry Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-07-friday-morning",
+          "file": "kevin-macleod-07-friday-morning.m4a",
+          "title": "Friday Morning",
+          "durationSec": 210,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Friday Morning Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "id": "kevin-macleod-08-dreamer",
+          "file": "kevin-macleod-08-dreamer.m4a",
+          "title": "Dreamer",
+          "durationSec": 204,
+          "sourceUrl": "https://incompetech.com/music/royalty-free/music.html",
+          "attribution": "Dreamer Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    }
+  ]
+}
